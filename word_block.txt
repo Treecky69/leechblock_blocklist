@@ -1,4 +1,6 @@
-*
+search.brave.com
+duckduckgo.com
+reddit.com/r/*
 ~boob
 ~tits
 ~breast
