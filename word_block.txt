@@ -1,6 +1,5 @@
 search.brave.com/images/*
 duckduckgo.com/*images*
-reddit.com/r/*
 ~boob
 ~tits
 ~breast
