@@ -32,4 +32,4 @@ gelbooru.com
 spankbang.com
 jizzberry.com
 bing.com
-tnaflix.com
+*tnaflix.com*
